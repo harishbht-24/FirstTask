@@ -7,9 +7,6 @@
   <book xml:id="my-great-book">
     <title>My Great Book</title>
     <subtitle>Background to Conics</subtitle>
-    Here’s a revised version of the passage with clearer flow, modernized language, and smoother transitions, suitable for an OER textbook:
-
----
 
 The Greek mathematician **Menaechmus** (c. 380–c. 320 BCE) is widely credited with discovering the curves formed by the intersection of a plane and a right circular cone. By changing the angle at which the plane sliced through the cone, he uncovered distinct and elegant shapes—each marked by striking symmetry.
 
@@ -21,9 +18,6 @@ We now know that many objects in space—including the intricate rings of **Satu
 
 In this chapter, we will explore the **two-dimensional figures** formed by slicing a right circular cone with a plane. We will examine three distinct shapes, derive equations that describe them, and learn how to apply those equations to solve various types of problems.
 
----
-
-Would you like this styled for a specific textbook level (e.g., high school vs. college algebra/trig)?
 
 
     <!-- Include frontmatter -->
