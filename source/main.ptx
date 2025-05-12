@@ -8,7 +8,10 @@
     <title>My Great Book</title>
     <subtitle>Background to Conics</subtitle>
 
-The Greek mathematician **Menaechmus** (c. 380–c. 320 BCE) is widely credited with discovering the curves formed by the intersection of a plane and a right circular cone. By changing the angle at which the plane sliced through the cone, he uncovered distinct and elegant shapes—each marked by striking symmetry.
+
+
+
+    <!-- The Greek mathematician **Menaechmus** (c. 380–c. 320 BCE) is widely credited with discovering the curves formed by the intersection of a plane and a right circular cone. By changing the angle at which the plane sliced through the cone, he uncovered distinct and elegant shapes—each marked by striking symmetry.
 
 It is believed that **Aristotle** also had an early, intuitive sense of these shapes. Observing the motion of the planets, he assumed their orbits were perfectly circular, with Earth at the center. This geocentric model dominated scientific thought for nearly two millennia.
 
@@ -17,10 +20,7 @@ The view of the cosmos began to shift during the **Renaissance**, when **Johanne
 We now know that many objects in space—including the intricate rings of **Saturn**—follow similar elliptical paths. In the 19th century, mathematicians such as **James Clerk Maxwell** and **Sofya Kovalevskaya** used mathematical analysis to show that Saturn’s rings, though appearing solid through telescopes, are actually composed of countless small particles. Even with the wealth of data provided by missions like **Voyager** and **Cassini**, fully understanding the structure of the rings continues to rely heavily on mathematics. Of particular interest are the roles Saturn’s **moons and moonlets** play in both disrupting and preserving the rings' delicate formations.
 
 In this chapter, we will explore the **two-dimensional figures** formed by slicing a right circular cone with a plane. We will examine three distinct shapes, derive equations that describe them, and learn how to apply those equations to solve various types of problems.
-
-
-
-    <!-- Include frontmatter -->
+ -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
