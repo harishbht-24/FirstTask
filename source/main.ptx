@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
+    <title>Conic Section</title>
     <subtitle>Background to Conics</subtitle>
 
     <p>The Greek mathematician **Menaechmus** (c. 380–c. 320 BCE) is widely credited with discovering the curves formed by the intersection of a plane and a right circular cone. By changing the angle at which the plane sliced through the cone, he uncovered distinct and elegant shapes—each marked by striking symmetry.
